@@ -1,0 +1,10 @@
+name: TimeVoter
+version: ${project.version}
+main: de.jonasbro.timevoter.Main
+api-version: 1.16
+authors: [ JonasBro ]
+description: Lets you vote for a specified Time
+
+commands:
+  timevote:
+    aliases: [tv]
